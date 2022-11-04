@@ -55,13 +55,22 @@ header {
     text-align: center;
 }
 
-nav a {
-    color: #E1E1E6;
-    text-align: center;
-}
-
 nav a:hover {
     color: #746615;
+}
+nav {
+    padding: 10px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.205);
+}
+
+nav > a {
+    color: #E1E1E6;
+    text-align: center;
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition-duration: .3s;
 }
 
 #cards {
