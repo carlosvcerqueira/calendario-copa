@@ -55,6 +55,15 @@ header {
     text-align: center;
 }
 
+nav a {
+    color: #E1E1E6;
+    text-align: center;
+}
+
+nav a:hover {
+    color: #746615;
+}
+
 #cards {
     display: flex;
     flex-direction: column;
