@@ -31,8 +31,8 @@ body.green {
 
 body.red {
     --card-title-border-color: #746615;
-    --card-color-primary: #047c3f;
-    --card-bg-color: #1a1f1b;
+    --card-color-primary: #d31b1b;
+    --card-bg-color: #1d1c19;
     --bg: url(bg-red.svg);
 }
 
