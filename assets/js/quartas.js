@@ -30,7 +30,7 @@ document.querySelector("#cards").innerHTML =
   ) +
   createCard(
     "10/12",
-    "domingo",
+    "sábado",
     createGame("default", "12:00", "default") +
       createGame("default", "16:00", "default")
   ) 
