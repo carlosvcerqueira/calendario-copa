@@ -86,14 +86,14 @@ function createCard(date, day, games) {
   //     createGame("brazil", "13:00", "switzerland") +
   //     createGame("portugal", "16:00", "uruguay")
   // ) +
-  createCard(
-    "29/11",
-    "terça",
-    createGame("ecuador", "12:00", "senegal") +
-      createGame("netherlands", "12:00", "qatar") +
-      createGame("iran", "16:00", "usa") +
-      createGame("wales", "16:00", "england")
-  ) +
+  // createCard(
+  //   "29/11",
+  //   "terça",
+  //   createGame("ecuador", "12:00", "senegal") +
+  //     createGame("netherlands", "12:00", "qatar") +
+  //     createGame("iran", "16:00", "usa") +
+  //     createGame("wales", "16:00", "england")
+  // ) +
   createCard(
     "30/11",
     "quarta",
